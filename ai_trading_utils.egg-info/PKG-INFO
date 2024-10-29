@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: ai_trading_utils
+Version: 0.1.0
+Summary: utils for `ai-trading` project
+Home-page: https://github.com/ai-traders-org/ai-trading-utils
+Author: Bartosz Bok
+Author-email: bok.bartosz@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Linux
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: boto3~=1.35.0
+Requires-Dist: pandas~=2.2.0
+
+# ai-trading-utils
+utils for `ai-trading` project

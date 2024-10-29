@@ -2,3 +2,6 @@
 
 # env directories/files
 venv/
+
+# generate package
+dist/
