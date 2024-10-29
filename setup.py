@@ -5,8 +5,8 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
-        # 'dependency1',
-        # 'dependency2',
+        'boto3~=1.35.0',
+        'pandas~=2.2.0'
     ],
     author="Bartosz Bok",
     author_email="bok.bartosz@gmail.com",
