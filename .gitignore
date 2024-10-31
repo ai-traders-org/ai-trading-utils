@@ -1,4 +1,7 @@
+# unused catalogs
 .idea/
+ai_trading_utils.egg-info
+build/lib/ai_trading_utils
 
 # env directories/files
 venv/
